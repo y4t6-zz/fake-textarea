@@ -1,0 +1,14 @@
+.t_area {
+    border: 1px solid grey;
+    border-radius: 3px;
+    width: 200px;
+    height: 100px;
+    overflow-y: auto;
+}
+.t_area:focus {
+    outline: none;
+    box-shadow: 
+}
+.t_cb {
+    color: blue;
+}
